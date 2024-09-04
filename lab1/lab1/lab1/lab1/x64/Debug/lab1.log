@@ -1,0 +1,13 @@
+﻿  lab1.cpp
+C:\CPPproj\lab1\lab1\lab1\lab1.cpp(24,5): error C2084: функция "int randomize(int)" уже имеет текст реализации
+      C:\CPPproj\lab1\lab1\lab1\lab1.cpp(10,5):
+      см. предыдущее определение "randomize"
+  
+C:\CPPproj\lab1\lab1\lab1\lab1.cpp(28,5): error C2084: функция "int generate_mas(int)" уже имеет текст реализации
+      C:\CPPproj\lab1\lab1\lab1\lab1.cpp(14,5):
+      см. предыдущее определение "generate_mas"
+  
+C:\CPPproj\lab1\lab1\lab1\lab1.cpp(31,25): error C2568: =: не удается разрешить перегрузку функции
+      C:\CPPproj\lab1\lab1\lab1\lab1.cpp(31,25):
+      может быть "int randomize(int)"
+  
